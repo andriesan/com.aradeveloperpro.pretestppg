@@ -7,7 +7,7 @@
 "Json_popup_Wait" : "Update Soal Server...100% Ready",
 
 
-"MODE_NO_ADS" : false,
+"MODE_NO_ADS" : true,  // proses review 29-9-22
 "MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : false,
 
 
@@ -74,7 +74,7 @@
 "enable_Share_button" : false,
 "Share_TXT" : "Bank Pretest PPG - Download Now",
 "More_Button" : "Share Via WhatsApp",
-"Url_More_Apps" : "https://play.google.com/store/apps/details?id=com.aradeveloperpro.soalppg"
+"Url_More_Apps" : "https://play.google.com/store/apps/details?id=com.aradeveloperpro.soalukmppg"
 
   }
 }
