@@ -7,7 +7,7 @@
 "Json_popup_Wait" : "Update Soal Server...100% Ready",
 
 
-"MODE_NO_ADS" : true,  // proses review 29-9-22
+"MODE_NO_ADS" : false,  // proses review 29-9-22
 "MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : false,
 
 
